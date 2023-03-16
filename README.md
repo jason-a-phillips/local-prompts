@@ -1,2 +1,2 @@
 # local-prompts
-Page that shows prompts locally depending on prompts clicked
+Page that shows prompts locally depending on button clicked
